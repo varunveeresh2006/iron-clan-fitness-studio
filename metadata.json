@@ -1,0 +1,8 @@
+{
+  "name": "Iron Clan Fitness Studio - Banashankari Gym & Fitness Center",
+  "description": "Official website demo for Iron Clan Fitness Studio in Banashankari, Bengaluru. Featuring strength training, CrossFit, 360 virtual tour, authentic member reviews, and membership enquiry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
