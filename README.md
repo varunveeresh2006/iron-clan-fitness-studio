@@ -133,6 +133,13 @@ Visitors can use the available contact options to:
 
 ---
 
+## 🎥 Project Demo
+
+Watch the complete website demo:
+
+[▶️ Watch Demo Video](## 🎥 Project Demo in public file under images)
+
+
 # ⚙️ How the Website Works
 
 The website is structured around a simple visitor journey:
